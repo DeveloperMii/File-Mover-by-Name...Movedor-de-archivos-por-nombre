@@ -1,4 +1,4 @@
-# Fime Mover by Name / Movedor de archivos por nombre
+# File Mover by Name / Movedor de archivos por nombre
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
