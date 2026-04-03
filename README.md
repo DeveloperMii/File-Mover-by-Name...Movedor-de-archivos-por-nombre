@@ -41,7 +41,7 @@ This Python script is designed to move or copy files in alphabetical order, whet
 You don’t need to pass the data through the terminal, as it doesn’t support that; instead, it requests the information bit by bit—specifically, the location, range, and modification type.
 This project originated from an issue with generic MP3 players, where songs usually play out of order. However, I discovered that the order is determined by the order in which they are stored in memory.
 The program will move or copy files in alphabetical order, so a numerical code at the beginning can be used to move or copy them in a custom order.
-If you have a large number of files, I have a program that can help with inserting or deleting files while maintaining a clean order, called [Code Renamer]() it basically adds or subtracts positions from each file’s index to keep things more organized.
+If you have a large number of files, I have a program that can help with inserting or deleting files while maintaining a clean order, called [Code Renamer](https://github.com/DeveloperMii/Code-Renamer...Renombrador-de-codigo) it basically adds or subtracts positions from each file’s index to keep things more organized.
 
 ### Features
 
@@ -97,7 +97,7 @@ The program runs in the terminal and prompts the user for input step by step:
 ### Limitations
 
 - The program will move/copy everything in that folder; therefore, if the folder is very large, errors may occur if there is insufficient storage space
-- If you are using a numeric code and have a large number of files, I recommend using [Code Renamer]() to streamline the management of the numeric code when adding, removing, or inserting files
+- If you are using a numeric code and have a large number of files, I recommend using [Code Renamer](https://github.com/DeveloperMii/Code-Renamer...Renombrador-de-codigo) to streamline the management of the numeric code when adding, removing, or inserting files
 
 ### License
 
@@ -123,7 +123,7 @@ Este Script de Python tiene la funcion de mover/copiar archivos de manera alfabe
 No es necesario pasarle los datos por la terminal, ya que no los soporta el los va pidiendo poco a poco en total son ubicación, rango, y tipo de modificación.
 Este proyecto nacio con una complicacion en reproductores mp3 genericos que generalmente las canciones salen en desorden pero descubri que el orden viene dictaminado por el orden en el que entran a la memoria.
 El programa movera o copiara en orden alfabetico por lo que un codigo numerico al inicio puede usarse para mover o copiar en un orden propio.
-En caso de tener muchos archivos tengo un programa que puede ayudar a la insercion o eliminacion de archivos y mantener el orden limpio llamado [Renombrador de codigo]() basicamente añade o sustrae posiciones a cada indice de los archivos manteniendo mas ordenado
+En caso de tener muchos archivos tengo un programa que puede ayudar a la insercion o eliminacion de archivos y mantener el orden limpio llamado [Renombrador de codigo](https://github.com/DeveloperMii/Code-Renamer...Renombrador-de-codigo) basicamente añade o sustrae posiciones a cada indice de los archivos manteniendo mas ordenado
 
 ### Caracteristicas
 
@@ -179,7 +179,7 @@ El programa se ejecuta en terminal y pide datos poco a poco:
 ### Limitaciones
 
 - El programa va a Mover/Copiar todo lo que este en dicha carpeta por ende si el tamaño es muy grande pueden surgir errores en caso de que el almacenamiento no sea suficiente
-- En caso de tener codigo numerico y mucha cantidad de archivos recomiendo usar [Renombrador de codigo]() para agilizar el control del codigo numerico en caso de adicion, Sustracion o Insercion de archivos
+- En caso de tener codigo numerico y mucha cantidad de archivos recomiendo usar [Renombrador de codigo](https://github.com/DeveloperMii/Code-Renamer...Renombrador-de-codigo) para agilizar el control del codigo numerico en caso de adicion, Sustracion o Insercion de archivos
 
 ### Licencia
 
